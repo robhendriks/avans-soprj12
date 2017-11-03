@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "3.4.0"
+github "xmartlabs/Eureka" "1.5.0"
+github "peterprokop/SwiftOverlays" "2.0.1"
+github "SwiftyJSON/SwiftyJSON" "2.3.3"
+github "pronebird/UIScrollView-InfiniteScroll" "0.7.4"

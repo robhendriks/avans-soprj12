@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+var argv = require('yargs')
+	.usage('$0 start [options]')
+	.command('start', 'Start importing', function(argv) {
+		require('../');
+	})
+	.version()
+	.help()
+	.argv;

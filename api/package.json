@@ -1,0 +1,30 @@
+{
+  "name": "ojt-api",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Rob Hendriks <rhendrik3@avans.nl>",
+  "bin": {
+    "ojt-api": "./bin/ojt-api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.robhendriks.co/ojt/ojt-api.git"
+  },
+  "bugs": {
+    "url": "https://git.robhendriks.co/ojt/ojt-api/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "goosepage": "0.0.1",
+    "mongoose": "^4.4.14",
+    "morgan": "^1.7.0",
+    "oauth2-server": "^2.4.1",
+    "ojt-models": "git+ssh://git@robhendriks.co:ojt/ojt-models.git"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
+  "private": true,
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+	"mongoose": {
+		"url": "mongodb://localhost/omejoopstour"
+	},
+	"mysql": {
+		"host": "robhendriks.co",
+		"user": "ojt",
+		"password": "datboi",
+		"database": "omejoopstour"
+	}
+}
